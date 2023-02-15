@@ -1,0 +1,12 @@
+For given X (new data):
+function f used to predict a CONTINUOUS value, y_hat, it is called 
+REGRESSION
+function f used to predict a DISCRETE value, y_hat, it is called 
+CLASSIFICATION
+
+In Linear Regression Model,
+X -> independent variable
+Y -> dependent variable
+beta -> coefficient
+w -> weight
+epsilon -> random variable
